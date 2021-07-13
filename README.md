@@ -24,10 +24,12 @@ CSS Exercises
 +    EX4) Write a selector to target the first blogpost
 +    EX5) Write a selector to target the "even" links in the navbar
 +    EX6) Write a selector to target the last blog post
-    EX7) Write a selector to target all the li into the first ordered-list in the sidebar ( Archives )
-    EX8) Write a selector to target the second post author
-    EX9) Write a selector to target the "back to top" link     #### EXTRA Try doing it without targeting the footer element directly
-    EX10) Write a selector to target the footer
++    EX7) Write a selector to target all the li into the first ordered-list in the sidebar ( Archives )
++    EX8) Write a selector to target the second post author
++    EX9) Write a selector to target the "back to top" link     
+    #### EXTRA Try doing it without targeting the footer element directly
+    
++    EX10) Write a selector to target the footer
 
 
 JS Exercises
