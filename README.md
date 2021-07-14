@@ -1,4 +1,4 @@
-# M2-D7
+# M2-D6
 CSS and JS in Blog Template
 
 
